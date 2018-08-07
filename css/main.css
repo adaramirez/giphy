@@ -2,8 +2,18 @@ body{
     background-color: #f7dde1;
 }
 
+h1{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 100px;
+}
+
+.element{
+    display: flex;
+    justify-content: center;
+}
+
 .container{
-    width: 65%;
+    width: auto;
     margin: 0 auto;
     text-align: center;
     background-color: #c9c9c9;
